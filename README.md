@@ -13,7 +13,7 @@ A simple React CRUD application using API integration.
 - Create posts
 - Read posts
 - Delete posts
-- API based data
+- Axios API used
 
 ## 🚀 Getting Started
 
